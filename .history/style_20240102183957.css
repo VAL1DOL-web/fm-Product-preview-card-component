@@ -19,7 +19,9 @@ body {
 .container {
     background:hsl(0, 0%, 100%);
     width: 530px;
+    height: 400px;
     display: flex;
+    gap: 10px;
     border-radius: 12px;
 }
 .container .left {
